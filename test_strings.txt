@@ -1,17 +1,30 @@
 Emails:
 user@example.com
 firstname.lastname@company.co.uk
+invalid-email@com
+user@@example..com
+user.name@domain
+user@.com
 
 URLs:
 https://www.example.com
 https://subdomain.example.org/page
+http://test-site.net
+ftp://notavalidurl.com
+www.missing-scheme.com
+http:/broken.url.com
 
 Phones:
 (123) 456-7890
 123-456-7890
 123.456.7890
+1234567890
+(123 456-7890
+12-3456-7890
 
 Credit Cards:
 1234 5678 9012 3456
 1234-5678-9012-3456
-
+1234567890123456
+1234 5678 9012 345
+abcd-efgh-ijkl-mnop
